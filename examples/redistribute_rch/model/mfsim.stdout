@@ -19,7 +19,7 @@ liable for any damages resulting from the authorized or unauthorized
 use of the software.
 
  
- Run start date and time (yyyy/mm/dd hh:mm:ss): 2022/07/16 10:01:00
+ Run start date and time (yyyy/mm/dd hh:mm:ss): 2022/07/16 11:28:16
  
  Writing simulation list file: mfsim.lst
  Using Simulation name file: mfsim.nam
@@ -126,7 +126,7 @@ use of the software.
     Solving:  Stress period:     2    Time step:    99
     Solving:  Stress period:     2    Time step:   100
  
- Run end date and time (yyyy/mm/dd hh:mm:ss): 2022/07/16 10:01:01
- Elapsed run time:  1.576 Seconds
+ Run end date and time (yyyy/mm/dd hh:mm:ss): 2022/07/16 11:28:46
+ Elapsed run time: 29.726 Seconds
  
  Normal termination of simulation.
