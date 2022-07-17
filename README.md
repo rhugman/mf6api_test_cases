@@ -1,7 +1,7 @@
 # Exploring the MODFLOW API
  A repository of example applications of the MODFLOW API.
 
-This repository contains contains experimental applications of the MODFLOW API. They are exploratory and may be wrong. User beware. If you find any mistakes, please let us know by opening an `issue`.
+This repository contains experimental applications of the MODFLOW API. They are exploratory and may be wrong. User beware. If you find any mistakes, please let us know by opening an `issue`.
 
 If you would like to add an example, please let us know! 
 
