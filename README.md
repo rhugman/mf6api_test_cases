@@ -1,5 +1,4 @@
 # Exploring the MODFLOW API
- A repository of example applications of the MODFLOW API.
 
 This repository contains experimental applications of the MODFLOW API. They are exploratory and may be wrong. User beware. If you find any mistakes, please let us know by opening an `issue`.
 
@@ -12,11 +11,12 @@ If you would like to add an example, please let us know!
  - Next, type `conda env create -f environment.yml`. This will create an anaconda environment called `apitest` and install the required python dependencies . It may take a while. Should you wish, you can inspect the *environment.yml* file in the repo folder to see what dependecies are being installed.
 
 
-## MODFLOW API:
+## Resources:
+### MODFLOW API:
 https://github.com/MODFLOW-USGS/modflowapi
 
-## Paper:
+### Paper:
 Joseph D. Hughes, Martijn J. Russcher, Christian D. Langevin, Eric D. Morway, Richard R. McDonald, 2021, The MODFLOW Application Programming Interface for simulation control and software interoperability, Environmental Modelling & Software, DOI: https://doi.org/10.1016/j.envsoft.2021.105257.
 
-## Paper supplementary material with jupyter notebooks:
+### Paper supplementary material with jupyter notebooks:
 https://github.com/MODFLOW-USGS/modflowapi/releases/tag/esmdatasets
